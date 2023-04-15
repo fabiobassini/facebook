@@ -3,8 +3,8 @@
 \* The project has not been updated since 2020
 
 <div align="center">
-<img src="https://github.com/fabiobassini/Facebook-Clone/blob/main/FaceBook/FaceBook/screenshot/screenshot.png" width="300" height="auto">
-<img src="https://github.com/fabiobassini/Facebook-Clone/blob/main/FaceBook/FaceBook/screenshot/gif.gif" width="300" height="auto">
+<img src="https://github.com/fabiobassini/facebook/blob/main/FaceBook/FaceBook/screenshot/screenshot.png" width="300" height="auto">
+<img src="https://github.com/fabiobassini/facebook/blob/main/FaceBook/FaceBook/screenshot/gif.gif" width="300" height="auto">
 </div>
 <br clear="right"/>
 
